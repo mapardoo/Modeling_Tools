@@ -1,0 +1,10 @@
+*.ipynb_checkpoints*
+*biblio.el*
+*.bbl
+*.tex
+*.el
+*DS_Store
+*.h5
+*.xdmf
+/07-PDE-Fenics/*/*.pdf
+/07-PDE-Fenics/*/*.png
